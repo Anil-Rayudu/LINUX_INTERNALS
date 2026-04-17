@@ -1,1 +1,1 @@
-# This folder is for Games
+# This folder is for Linux_internals projects
